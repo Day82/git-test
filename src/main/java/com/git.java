@@ -8,5 +8,6 @@ public class git {
         System.out.println("冲突合并hot-fix1");
         System.out.println("冲突合并master2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
